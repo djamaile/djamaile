@@ -1,5 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=djamaile&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="Djamaile's github stats"/></a>
-<a href="https://github.com/anuraghazra/convoychat"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamaile&layout=compact&theme=buefy" alt="Djamaile's top languages"/></a><br><br />
+<div class="half">
+  <a href="https://github.com/djamaile"><img src="https://github-readme-stats.vercel.app/api?username=djamaile&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
+  <a href="https://github.com/djamaile"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamaile&hide=Objective-C,shell,swift&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
+</div>
 
 ## Visitors
 ![Visitor Count](https://profile-counter.glitch.me/djamaile/count.svg)
